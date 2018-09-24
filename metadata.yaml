@@ -1,5 +1,8 @@
 _repo: Musketry-303-and-22-cartridges_56395
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56395-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '48816'
     url: http://www.gutenberg.org/2009/agents/48816
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56395#Musketry-303-and-22-cartridges
 gutenberg_issued: '2018-01-19'
 gutenberg_type: Text
 identifiers:
